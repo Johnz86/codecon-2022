@@ -10,3 +10,10 @@ etc
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+notebooks/.ipynb_checkpoints
+notebooks/ethical-documentation/template/html/compare.html.jinja
+notebooks/ethical-documentation/template/html/default_template.html.jinja
+notebooks/ethical-documentation/template/md
+notebooks/ethical-documentation/model_cards
+notebooks/ethical-documentation/data
+notebooks/heart-disease-logistic-regression.pkl
