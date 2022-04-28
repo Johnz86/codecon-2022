@@ -24,3 +24,7 @@ You should have fairly powerfull machine to run this.
 pip install monai monailabel monai-deploy-app-sdk matplotlib
 jupyter notebook  ./notebooks/MONAI-2d-classification.ipynb
 ```
+
+## Siemens Healthineers Game
+
+Try this game [vyliec Simi](www.vyliecsimi.sk). My employer is hiring. 
