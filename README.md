@@ -27,4 +27,4 @@ jupyter notebook  ./notebooks/MONAI-2d-classification.ipynb
 
 ## Siemens Healthineers Game
 
-Try this game [vyliec Simi](www.vyliecsimi.sk). My employer is hiring. 
+Try this game [Vyliec Simi](https://www.vyliecsimi.sk). My employer is hiring. 
